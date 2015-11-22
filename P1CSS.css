@@ -17,6 +17,7 @@ title {
 	text-align: center;
 }
 
+
 .container {
     background-color: #00384d;
 	max-width: 900px;
@@ -39,6 +40,7 @@ title {
 	max-width: 300px;
 	max-height: 250px;
 	float: left;
+
 }
 
 #footer {
@@ -51,4 +53,5 @@ title {
 	font-size: 10pt;
 	text-align: center;
 	clear: both;
+
 }
