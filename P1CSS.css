@@ -1,0 +1,131 @@
+html {
+	background-color: #d1d1e0;
+}
+
+title {
+	font-family: Arial;
+}
+
+#header {
+	background-color: #0066cc;
+	border: 2px;
+	border-radius: 5px;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	font-family: Impact;
+	font-size: 20pt;
+	text-align: center;
+}
+
+#frame {
+	background-color: #00384d;
+	max-width: 1600px;
+	max-height: 1400px;
+	column-count: 2;
+    column-gap: 20px;
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count:2;
+    -webkit-column-gap: 20px;
+}
+
+.pic {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: left;
+}
+
+.pic2 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: left;
+	clear: left;
+}
+
+.pic3 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: right;
+	clear: left;
+}
+
+.pic4 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: right;
+	clear: left;
+}
+
+.pic5 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: left;
+	clear: left;
+}
+
+.pic6 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: left;
+	clear: left;
+
+}
+
+.pic7 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: right;
+	clear: left;
+
+}
+
+.pic8 {
+	border-radius: 5px;
+	background-color: #007fff;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	max-width: 300px;
+	max-height: 250px;
+	float: right;
+	clear: left;
+}
+
+#footer {
+	background-color: #0066cc;
+	border: 2px;
+	border-radius: 5px;
+	margin: 20px 20px 20px 20px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	clear: all;
+}
